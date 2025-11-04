@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me:
 
-### 👋 Hola! soy desarrolladora full-stack
+### 👋 Hola! soy desarrollador full-stack
 
 Techie de corazón. Construyo con **React + Node.js** y me gusta diseñar sistemas que sean simples, escalables y fáciles de mantener.
 
@@ -45,7 +45,7 @@ Siempre iterando y aprendiendo algo nuevo 🚀
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-%23146de0.svg?style=for-the-badge&logo=canva&logoColor=white)
 
- VCS & DevOps 
+<!-- VCS & DevOps -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,7 +53,7 @@ Siempre iterando y aprendiendo algo nuevo 🚀
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%230973B4.svg?style=for-the-badge&logo=trello&logoColor=white)
 
- Web & CSS 
+<!-- Web & CSS -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
