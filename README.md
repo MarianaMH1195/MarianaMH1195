@@ -4,7 +4,8 @@
 
 ### 👋 Hola! soy desarrolladora full-stack
 
-Techie de corazón. Construyo con **React + Node.js** y me gusta diseñar sistemas que sean simples, escalables y fáciles de mantener.
+Software craft learner — me gusta crear productos con intención y aprender haciendo.  
+Trabajo con **React + Node.js** y disfruto diseñar sistemas simples, claros y mantenibles.
 
 - 🧩 fullstack → UI/UX + api + lógica + distribución
 - ⚙️ devops → automatización, CI/CD, herramientas, DX
@@ -57,7 +58,6 @@ Siempre iterando y aprendiendo algo nuevo 🚀
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
