@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me:
 
-### 👋 Hola! soy desarrollador full-stack
+### 👋 Hola! soy desarrolladora full-stack
 
 Techie de corazón. Construyo con **React + Node.js** y me gusta diseñar sistemas que sean simples, escalables y fáciles de mantener.
 
