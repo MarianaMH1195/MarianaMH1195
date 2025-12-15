@@ -20,17 +20,19 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 
 ## 📊 Mis Estadísticas de GitHub
 
-### 📈 GitHub Stats
+### 📆 Contribuciones del último año
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarianaMH1195&theme=react-dark)
+
+### 🔥 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com/?user=MarianaMH1195&theme=dark)
+
+### 📈 Estadísticas generales
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&show_icons=true&theme=dark)
 
 ### 💻 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMH1195&layout=compact&theme=dark)
 
-### 📆 Contribuciones del último año
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarianaMH1195&theme=react-dark)
 
-### 🔥 Racha de contribuciones
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarianaMH1195&theme=dark)
 
 
 
