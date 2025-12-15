@@ -2,10 +2,12 @@
 
 ## 👩‍💻 About Me
 
-👋 Hola, soy **Full-stack developer & data analyst**.  
-Construyo soluciones digitales claras y funcionales, donde el código y los datos trabajan juntos para apoyar buenas decisiones.
+👋 Hola, soy **Mariana**.  
+Soy **veterinaria**, **full-stack developer** y **data analyst** — una combinación poco común, pero muy yo.
 
-Me gusta entender el problema completo — desde el frontend y el backend hasta el análisis — y mejorar cada proyecto iteración tras iteración.
+Vengo de un mundo donde observar, analizar y tomar decisiones correctas es clave, y hoy aplico esa misma lógica al código y a los datos para construir soluciones claras, útiles y bien pensadas.
+
+Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema completo y mejorando cada proyecto paso a paso.
 
 - 📊 **data analysis** → exploración, visualización y análisis de información  
 - 🧩 **fullstack** → frontend, backend y lógica de negocio  
@@ -13,7 +15,7 @@ Me gusta entender el problema completo — desde el frontend y el backend hasta 
 
 🚀 **ship → measure → iterate**  
 
-✨ Siempre aprendiendo y mejorando
+✨ Siempre aprendiendo, iterando y construyendo
 
 
 ---
