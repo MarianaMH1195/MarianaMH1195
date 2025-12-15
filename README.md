@@ -18,43 +18,20 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 
 ✨ Siempre aprendiendo, iterando y construyendo
 
-🌟 Proyectos Destacados
-Proyecto	Descripción	Tecnologías
-p5-analisis_exploratorio_datos-g5
-	Análisis exploratorio de datos usando datasets, relacionando variables y extrayendo conclusiones.	Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-project-data-automation
-	Automatización de datos con Python, SQL y Excel.	Python, SQL, Excel
-fullstack-butterflies-mongodb
-	Aplicación fullstack con MongoDB para gestión de datos de mariposas.	JavaScript, Node.js, Express, MongoDB, HTML, CSS
-fullstack-butterflies-SQL
-	Versión fullstack con base de datos SQL del proyecto de mariposas.	JavaScript, Node.js, Express, SQL, HTML, CSS
-MiPildora.2
-	Proyecto interactivo en JavaScript para aprendizaje del usuario.	JavaScript, HTML, CSS
-Tarot-app
-	Aplicación visual para mostrar cartas de tarot.	CSS, HTML, JavaScript
-cine-verano-crud
-	CRUD de películas de verano, gestión completa de registros.	JavaScript, HTML, CSS
-piedras-angulares
-	Primer proyecto de HTML y CSS, centrado en diseño web básico.	HTML, CSS
-🛠️ Tecnologías / Skills
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
-📊 Estadísticas y Contribuciones
-📈 GitHub Stats
+## 📊 Mis Estadísticas de GitHub
 
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&show_icons=true&theme=dark)
 
+### 💻 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMH1195&layout=compact&theme=dark)
 
+### 📆 Contribuciones del último año
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarianaMH1195&theme=react-dark)
 
-🔥 GitHub Streak
+### 🔥 Racha de contribuciones
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarianaMH1195&theme=dark)
 
-🗓️ Contribuciones del último año
-
-📫 Contacto / Enlaces
-
-GitHub
-
-LinkedIn
-
-Portafolio: En construcción
 
 
 
