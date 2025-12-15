@@ -1,80 +1,60 @@
-# Hello, it's me... 😄
+Hello, it's me... 😄
+👩‍💻 About Me
 
-## 👩‍💻 About Me
-
-👋 Hola, soy **Mariana**.  
-Soy **veterinaria**, **full-stack developer** y **data analyst** — una combinación poco común, pero muy yo.
+👋 Hola, soy Mariana.
+Soy veterinaria, full-stack developer y data analyst — una combinación poco común, pero muy yo.
 
 Vengo de un mundo donde observar, analizar y tomar decisiones correctas es clave, y hoy aplico esa misma lógica al código y a los datos para construir soluciones claras, útiles y bien pensadas.
 
 Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema completo y mejorando cada proyecto paso a paso.
 
-- 📊 **data analysis** → exploración, visualización y análisis de información  
-- 🧩 **fullstack** → frontend, backend y lógica de negocio  
-- ⚙️ **herramientas** → control de versiones, flujos de trabajo y buenas prácticas  
+📊 data analysis → exploración, visualización y análisis de información
 
-🚀 **ship → measure → iterate**  
+🧩 fullstack → frontend, backend y lógica de negocio
+
+⚙️ herramientas → control de versiones, flujos de trabajo y buenas prácticas
+
+🚀 ship → measure → iterate
 
 ✨ Siempre aprendiendo, iterando y construyendo
 
+🌟 Proyectos Destacados
+Proyecto	Descripción	Tecnologías
+p5-analisis_exploratorio_datos-g5
+	Análisis exploratorio de datos usando datasets, relacionando variables y extrayendo conclusiones.	Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+project-data-automation
+	Automatización de datos con Python, SQL y Excel.	Python, SQL, Excel
+fullstack-butterflies-mongodb
+	Aplicación fullstack con MongoDB para gestión de datos de mariposas.	JavaScript, Node.js, Express, MongoDB, HTML, CSS
+fullstack-butterflies-SQL
+	Versión fullstack con base de datos SQL del proyecto de mariposas.	JavaScript, Node.js, Express, SQL, HTML, CSS
+MiPildora.2
+	Proyecto interactivo en JavaScript para aprendizaje del usuario.	JavaScript, HTML, CSS
+Tarot-app
+	Aplicación visual para mostrar cartas de tarot.	CSS, HTML, JavaScript
+cine-verano-crud
+	CRUD de películas de verano, gestión completa de registros.	JavaScript, HTML, CSS
+piedras-angulares
+	Primer proyecto de HTML y CSS, centrado en diseño web básico.	HTML, CSS
+🛠️ Tecnologías / Skills
+<p align="left"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+📊 Estadísticas y Contribuciones
+📈 GitHub Stats
 
----
 
-## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mariana-moreno-henao-70305a16b)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge\&logo=Gmail\&logoColor=white)](mailto:morenomariana03@gmail.com)
 
----
+🔥 GitHub Streak
 
-## 🏷️ Tecnologías Principales
+🗓️ Contribuciones del último año
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%233E4C59.svg?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
+📫 Contacto / Enlaces
 
----
+GitHub
 
-## 💻 Tech Stack:
+LinkedIn
 
-### 🧠 Data Analysis
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%233E4C59.svg?style=for-the-badge)
-
-### 🌐 Frontend & Backend
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-### ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-## 📈 Uso de Tecnologías
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMH1195\&layout=compact\&theme=radical)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=MarianaMH1195&theme=radical&hide_border=false)<br/> 
+Portafolio: En construcción
 
 
 
