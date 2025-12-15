@@ -81,9 +81,6 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 
 ## 📊 Mis Estadísticas de GitHub
 
-### 📆 Contribuciones del último año
-![Activity Graph](https://activity-graph.cyclic.app/graph?username=MarianaMH1195&theme=react-dark&area=true&hide_border=true)
-
 ### 🔥 Racha de contribuciones
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MarianaMH1195&theme=dark&hide_border=true)
 
