@@ -74,7 +74,7 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=MarianaMH1195&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaMH1195&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=MarianaMH1195&theme=radical&hide_border=false)<br/> 
 
 
 
