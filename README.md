@@ -81,8 +81,6 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 
 ## 📊 Mis Estadísticas de GitHub
 
-### 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com/?user=MarianaMH1195&theme=dark&hide_border=true)
 
 ### 📈 Estadísticas generales
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarianaMH1195&show_icons=true&theme=dark&hide_border=true)
