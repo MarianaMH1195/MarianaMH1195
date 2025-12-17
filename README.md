@@ -1,6 +1,6 @@
 # Hello, it's me... 😄
 
-## 👩‍💻 About Me
+
 
 👋 Hola, soy **Mariana**.  
 Soy **veterinaria**, **full-stack developer** y **data analyst** — una combinación poco común, pero muy yo.
