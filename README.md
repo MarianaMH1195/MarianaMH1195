@@ -58,6 +58,8 @@ Me gusta moverme entre producto, desarrollo y análisis, entendiendo el problema
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%233E4C59.svg?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 ### ⚙️ DevOps & Tools
