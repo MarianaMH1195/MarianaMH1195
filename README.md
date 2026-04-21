@@ -1,7 +1,7 @@
 # Hello, it's me... 😄
 
 
-# 👋 Hola, soy Mariana 
+# 👋 Hola, soy Mariana Moreno Henao
 
 ### **Data Analyst | Full Stack Background**
 *Transformando datos complejos en soluciones tecnológicas eficientes y decisiones estratégicas basadas en evidencia.*
